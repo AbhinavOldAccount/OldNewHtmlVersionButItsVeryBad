@@ -1,0 +1,11 @@
+T[My Website]
+BG[0, 255, 255]
+H3[Login]
+I[Usename:] &
+& I[Password:]
+& P[This is my very own cool website.]
+A^https://www.google.com/[Link to google] &
+P[This is normal]
+P^*[This is bold]
+P^**[This is italic]
+P^***[This is bold AND italic]
